@@ -1,0 +1,46 @@
+{
+  "documentId": "ui-e2e-001",
+  "documentPath": "documents/ui-e2e-001.json",
+  "title": "Ciclo E2E",
+  "frontmatter": {
+    "title": "Ciclo E2E"
+  },
+  "nodes": [
+    {
+      "id": "c345e0e1-02c1-4d69-bb1c-b7a99af38a5c",
+      "type": "paragraph",
+      "version": 1,
+      "content": ""
+    }
+  ],
+  "doc": {
+    "root": {
+      "type": "root",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "direction": null,
+      "children": [
+        {
+          "type": "paragraph",
+          "format": "",
+          "indent": 0,
+          "version": 1,
+          "direction": null,
+          "children": [],
+          "$": {
+            "nodeId": "c345e0e1-02c1-4d69-bb1c-b7a99af38a5c"
+          }
+        }
+      ]
+    }
+  },
+  "identity": {
+    "backfill": {
+      "at": "2026-08-08T04:03:35.032Z",
+      "nodeIds": [
+        "c345e0e1-02c1-4d69-bb1c-b7a99af38a5c"
+      ]
+    }
+  }
+}
