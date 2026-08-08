@@ -15,24 +15,82 @@
   ],
   "doc": {
     "root": {
-      "type": "root",
-      "format": "",
-      "indent": 0,
-      "version": 1,
-      "direction": null,
       "children": [
         {
-          "type": "paragraph",
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Guia de estilo del equipo",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": null,
           "format": "",
           "indent": 0,
+          "type": "paragraph",
           "version": 1,
-          "direction": null,
-          "children": [],
           "$": {
             "nodeId": "937ecd64-c898-49a9-a020-2b27b70d9b5d"
-          }
+          },
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Escribimos en voz activa y frases cortas.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "$": {
+            "nodeId": "b3f6f797-b397-4907-a6a4-2df3b120388b"
+          },
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Cada decision tecnica lleva su motivo al lado.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "$": {
+            "nodeId": "9210dc6c-c7c0-4505-9dd4-271baee08c1f"
+          },
+          "textFormat": 0,
+          "textStyle": ""
         }
-      ]
+      ],
+      "direction": null,
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
     }
   },
   "identity": {
@@ -42,5 +100,13 @@
         "937ecd64-c898-49a9-a020-2b27b70d9b5d"
       ]
     }
+  },
+  "github": {
+    "owner": "metuur-ai",
+    "repo": "visual-spec-collaboration-test",
+    "branch": "visual-spec/guia-de-estilo",
+    "pullNumber": 8,
+    "headSha": "c0838143e08d76587106bf1b55ae6805e7f4f923",
+    "resolved": false
   }
 }
