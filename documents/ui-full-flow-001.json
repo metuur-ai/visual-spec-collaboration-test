@@ -1,0 +1,46 @@
+{
+  "documentId": "ui-full-flow-001",
+  "documentPath": "documents/ui-full-flow-001.json",
+  "title": "Flujo completo desde la UI",
+  "frontmatter": {
+    "title": "Flujo completo desde la UI"
+  },
+  "nodes": [
+    {
+      "id": "a3895b0e-ec01-46ba-95a3-b3b901017170",
+      "type": "paragraph",
+      "version": 1,
+      "content": ""
+    }
+  ],
+  "doc": {
+    "root": {
+      "type": "root",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "direction": null,
+      "children": [
+        {
+          "type": "paragraph",
+          "format": "",
+          "indent": 0,
+          "version": 1,
+          "direction": null,
+          "children": [],
+          "$": {
+            "nodeId": "a3895b0e-ec01-46ba-95a3-b3b901017170"
+          }
+        }
+      ]
+    }
+  },
+  "identity": {
+    "backfill": {
+      "at": "2026-08-08T03:38:56.113Z",
+      "nodeIds": [
+        "a3895b0e-ec01-46ba-95a3-b3b901017170"
+      ]
+    }
+  }
+}
