@@ -1,0 +1,46 @@
+{
+  "documentId": "comentarios-002",
+  "documentPath": "documents/comentarios-002.json",
+  "title": "Comentarios v2",
+  "frontmatter": {
+    "title": "Comentarios v2"
+  },
+  "nodes": [
+    {
+      "id": "a597741d-6926-47ba-ae3e-b666889f3e19",
+      "type": "paragraph",
+      "version": 1,
+      "content": ""
+    }
+  ],
+  "doc": {
+    "root": {
+      "type": "root",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "direction": null,
+      "children": [
+        {
+          "type": "paragraph",
+          "format": "",
+          "indent": 0,
+          "version": 1,
+          "direction": null,
+          "children": [],
+          "$": {
+            "nodeId": "a597741d-6926-47ba-ae3e-b666889f3e19"
+          }
+        }
+      ]
+    }
+  },
+  "identity": {
+    "backfill": {
+      "at": "2026-08-08T04:22:09.238Z",
+      "nodeIds": [
+        "a597741d-6926-47ba-ae3e-b666889f3e19"
+      ]
+    }
+  }
+}
