@@ -15,24 +15,82 @@
   ],
   "doc": {
     "root": {
-      "type": "root",
-      "format": "",
-      "indent": 0,
-      "version": 1,
-      "direction": null,
       "children": [
         {
-          "type": "paragraph",
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Primer parrafo del documento.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": null,
           "format": "",
           "indent": 0,
+          "type": "paragraph",
           "version": 1,
-          "direction": null,
-          "children": [],
           "$": {
             "nodeId": "9876977f-e5c1-491f-bf6e-5e8040275acf"
-          }
+          },
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Segundo parrafo, otro bloque distinto.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "$": {
+            "nodeId": "e561c848-b75b-4150-b4cc-a9bb044fd779"
+          },
+          "textFormat": 0,
+          "textStyle": ""
+        },
+        {
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Tercer parrafo para el comentario huerfano.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "paragraph",
+          "version": 1,
+          "$": {
+            "nodeId": "c6a9d9d0-ea9c-4af5-8d2c-d4f37250745d"
+          },
+          "textFormat": 0,
+          "textStyle": ""
         }
-      ]
+      ],
+      "direction": null,
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
     }
   },
   "identity": {
@@ -42,5 +100,13 @@
         "9876977f-e5c1-491f-bf6e-5e8040275acf"
       ]
     }
+  },
+  "github": {
+    "owner": "metuur-ai",
+    "repo": "visual-spec-collaboration-test",
+    "branch": "visual-spec/comentarios-001",
+    "pullNumber": 6,
+    "headSha": "709f57332bb92a0e9268576e52c3f1f3ee5e8284",
+    "resolved": false
   }
 }
