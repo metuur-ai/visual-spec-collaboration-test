@@ -9,8 +9,8 @@
     {
       "id": "c345e0e1-02c1-4d69-bb1c-b7a99af38a5c",
       "type": "paragraph",
-      "version": 1,
-      "content": ""
+      "version": 2,
+      "content": "Contenido del ciclo E2E."
     }
   ],
   "doc": {
@@ -23,7 +23,7 @@
               "format": 0,
               "mode": "normal",
               "style": "",
-              "text": "Contenido del ciclo E2E.",
+              "text": " Editado tras resolver el comentario.Contenido del ciclo E2E.",
               "type": "text",
               "version": 1
             }
