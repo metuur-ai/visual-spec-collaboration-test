@@ -9,8 +9,14 @@
     {
       "id": "a597741d-6926-47ba-ae3e-b666889f3e19",
       "type": "paragraph",
+      "version": 2,
+      "content": "Bloque uno."
+    },
+    {
+      "id": "55c752be-b9e1-47d5-b9f7-b39a6cd1266f",
+      "type": "paragraph",
       "version": 1,
-      "content": ""
+      "content": "Bloque dos."
     }
   ],
   "doc": {
@@ -23,7 +29,7 @@
               "format": 0,
               "mode": "normal",
               "style": "",
-              "text": "Bloque uno.",
+              "text": " Cambio final.Bloque uno.",
               "type": "text",
               "version": 1
             }
