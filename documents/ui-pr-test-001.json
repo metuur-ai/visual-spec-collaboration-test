@@ -1,0 +1,46 @@
+{
+  "documentId": "ui-pr-test-001",
+  "documentPath": "documents/ui-pr-test-001.json",
+  "title": "UI PR test",
+  "frontmatter": {
+    "title": "UI PR test"
+  },
+  "nodes": [
+    {
+      "id": "081556dc-739b-4ca1-8ab8-32c5ec447ea3",
+      "type": "paragraph",
+      "version": 1,
+      "content": ""
+    }
+  ],
+  "doc": {
+    "root": {
+      "type": "root",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "direction": null,
+      "children": [
+        {
+          "type": "paragraph",
+          "format": "",
+          "indent": 0,
+          "version": 1,
+          "direction": null,
+          "children": [],
+          "$": {
+            "nodeId": "081556dc-739b-4ca1-8ab8-32c5ec447ea3"
+          }
+        }
+      ]
+    }
+  },
+  "identity": {
+    "backfill": {
+      "at": "2026-08-08T03:17:18.211Z",
+      "nodeIds": [
+        "081556dc-739b-4ca1-8ab8-32c5ec447ea3"
+      ]
+    }
+  }
+}
