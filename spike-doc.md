@@ -20,7 +20,7 @@ Párrafo original de la sección 4. Este texto no cambia en el pull request.
 
 ## Sección 5
 
-Párrafo original de la sección 5. Este texto no cambia en el pull request.
+Párrafo EDITADO de la sección 5. Esta es la única línea que el PR modifica.
 
 ## Sección 6
 
