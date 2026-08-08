@@ -1,0 +1,46 @@
+{
+  "documentId": "ui-final-001",
+  "documentPath": "documents/ui-final-001.json",
+  "title": "Prueba final UI",
+  "frontmatter": {
+    "title": "Prueba final UI"
+  },
+  "nodes": [
+    {
+      "id": "71a048ce-e480-4aa2-bb4c-cc1cef26904d",
+      "type": "paragraph",
+      "version": 1,
+      "content": ""
+    }
+  ],
+  "doc": {
+    "root": {
+      "type": "root",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "direction": null,
+      "children": [
+        {
+          "type": "paragraph",
+          "format": "",
+          "indent": 0,
+          "version": 1,
+          "direction": null,
+          "children": [],
+          "$": {
+            "nodeId": "71a048ce-e480-4aa2-bb4c-cc1cef26904d"
+          }
+        }
+      ]
+    }
+  },
+  "identity": {
+    "backfill": {
+      "at": "2026-08-08T03:58:19.957Z",
+      "nodeIds": [
+        "71a048ce-e480-4aa2-bb4c-cc1cef26904d"
+      ]
+    }
+  }
+}
