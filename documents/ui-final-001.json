@@ -15,24 +15,36 @@
   ],
   "doc": {
     "root": {
-      "type": "root",
-      "format": "",
-      "indent": 0,
-      "version": 1,
-      "direction": null,
       "children": [
         {
-          "type": "paragraph",
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Ciclo completo verificado desde el navegador.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": null,
           "format": "",
           "indent": 0,
+          "type": "paragraph",
           "version": 1,
-          "direction": null,
-          "children": [],
           "$": {
             "nodeId": "71a048ce-e480-4aa2-bb4c-cc1cef26904d"
-          }
+          },
+          "textFormat": 0,
+          "textStyle": ""
         }
-      ]
+      ],
+      "direction": null,
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
     }
   },
   "identity": {
@@ -42,5 +54,13 @@
         "71a048ce-e480-4aa2-bb4c-cc1cef26904d"
       ]
     }
+  },
+  "github": {
+    "owner": "metuur-ai",
+    "repo": "visual-spec-collaboration-test",
+    "branch": "visual-spec/ui-final-001",
+    "pullNumber": 4,
+    "headSha": "527e83c398003eaeab503444484eb5e8165fee74",
+    "resolved": false
   }
 }
