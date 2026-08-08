@@ -1,6 +1,13 @@
 # Spike: anclaje de comentarios de revisión
 
+> Bloque agregado al principio para desplazar todas las líneas.
+
+Otro párrafo de relleno.
+
+
 Documento de prueba para verificar la restricción de línea-en-diff de GitHub.
+
+Nuevo párrafo insertado arriba, que desplaza todas las líneas siguientes.
 
 ## Sección 1
 
@@ -20,7 +27,7 @@ Párrafo original de la sección 4. Este texto no cambia en el pull request.
 
 ## Sección 5
 
-Párrafo original de la sección 5. Este texto no cambia en el pull request.
+Párrafo REESCRITO por completo, para que el comentario A quede desactualizado.
 
 ## Sección 6
 
