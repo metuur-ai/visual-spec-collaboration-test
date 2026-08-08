@@ -15,24 +15,36 @@
   ],
   "doc": {
     "root": {
-      "type": "root",
-      "format": "",
-      "indent": 0,
-      "version": 1,
-      "direction": null,
       "children": [
         {
-          "type": "paragraph",
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Este texto se escribio desde el navegador con agent-browser.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": null,
           "format": "",
           "indent": 0,
+          "type": "paragraph",
           "version": 1,
-          "direction": null,
-          "children": [],
           "$": {
             "nodeId": "a3895b0e-ec01-46ba-95a3-b3b901017170"
-          }
+          },
+          "textFormat": 0,
+          "textStyle": ""
         }
-      ]
+      ],
+      "direction": null,
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
     }
   },
   "identity": {
@@ -42,5 +54,13 @@
         "a3895b0e-ec01-46ba-95a3-b3b901017170"
       ]
     }
+  },
+  "github": {
+    "owner": "metuur-ai",
+    "repo": "visual-spec-collaboration-test",
+    "branch": "visual-spec/ui-full-flow-001",
+    "pullNumber": 3,
+    "headSha": "41a26d41fe2843f43139317365018e63151029b3",
+    "resolved": false
   }
 }
