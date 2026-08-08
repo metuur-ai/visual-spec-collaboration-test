@@ -1,0 +1,46 @@
+{
+  "documentId": "guia-de-estilo",
+  "documentPath": "documents/guia-de-estilo.json",
+  "title": "Guía de estilo del equipo",
+  "frontmatter": {
+    "title": "Guía de estilo del equipo"
+  },
+  "nodes": [
+    {
+      "id": "937ecd64-c898-49a9-a020-2b27b70d9b5d",
+      "type": "paragraph",
+      "version": 1,
+      "content": ""
+    }
+  ],
+  "doc": {
+    "root": {
+      "type": "root",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "direction": null,
+      "children": [
+        {
+          "type": "paragraph",
+          "format": "",
+          "indent": 0,
+          "version": 1,
+          "direction": null,
+          "children": [],
+          "$": {
+            "nodeId": "937ecd64-c898-49a9-a020-2b27b70d9b5d"
+          }
+        }
+      ]
+    }
+  },
+  "identity": {
+    "backfill": {
+      "at": "2026-08-08T05:24:12.960Z",
+      "nodeIds": [
+        "937ecd64-c898-49a9-a020-2b27b70d9b5d"
+      ]
+    }
+  }
+}
