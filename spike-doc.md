@@ -1,5 +1,10 @@
 # Spike: anclaje de comentarios de revisión
 
+> Bloque agregado al principio para desplazar todas las líneas.
+
+Otro párrafo de relleno.
+
+
 Documento de prueba para verificar la restricción de línea-en-diff de GitHub.
 
 Nuevo párrafo insertado arriba, que desplaza todas las líneas siguientes.
