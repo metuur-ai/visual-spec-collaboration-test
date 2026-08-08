@@ -1,0 +1,46 @@
+{
+  "documentId": "comentarios-001",
+  "documentPath": "documents/comentarios-001.json",
+  "title": "Flujo de comentarios",
+  "frontmatter": {
+    "title": "Flujo de comentarios"
+  },
+  "nodes": [
+    {
+      "id": "9876977f-e5c1-491f-bf6e-5e8040275acf",
+      "type": "paragraph",
+      "version": 1,
+      "content": ""
+    }
+  ],
+  "doc": {
+    "root": {
+      "type": "root",
+      "format": "",
+      "indent": 0,
+      "version": 1,
+      "direction": null,
+      "children": [
+        {
+          "type": "paragraph",
+          "format": "",
+          "indent": 0,
+          "version": 1,
+          "direction": null,
+          "children": [],
+          "$": {
+            "nodeId": "9876977f-e5c1-491f-bf6e-5e8040275acf"
+          }
+        }
+      ]
+    }
+  },
+  "identity": {
+    "backfill": {
+      "at": "2026-08-08T04:12:25.510Z",
+      "nodeIds": [
+        "9876977f-e5c1-491f-bf6e-5e8040275acf"
+      ]
+    }
+  }
+}
