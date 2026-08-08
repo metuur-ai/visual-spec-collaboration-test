@@ -15,24 +15,36 @@
   ],
   "doc": {
     "root": {
-      "type": "root",
-      "format": "",
-      "indent": 0,
-      "version": 1,
-      "direction": null,
       "children": [
         {
-          "type": "paragraph",
+          "children": [
+            {
+              "detail": 0,
+              "format": 0,
+              "mode": "normal",
+              "style": "",
+              "text": "Contenido del ciclo E2E.",
+              "type": "text",
+              "version": 1
+            }
+          ],
+          "direction": null,
           "format": "",
           "indent": 0,
+          "type": "paragraph",
           "version": 1,
-          "direction": null,
-          "children": [],
           "$": {
             "nodeId": "c345e0e1-02c1-4d69-bb1c-b7a99af38a5c"
-          }
+          },
+          "textFormat": 0,
+          "textStyle": ""
         }
-      ]
+      ],
+      "direction": null,
+      "format": "",
+      "indent": 0,
+      "type": "root",
+      "version": 1
     }
   },
   "identity": {
@@ -42,5 +54,13 @@
         "c345e0e1-02c1-4d69-bb1c-b7a99af38a5c"
       ]
     }
+  },
+  "github": {
+    "owner": "metuur-ai",
+    "repo": "visual-spec-collaboration-test",
+    "branch": "visual-spec/ui-e2e-001",
+    "pullNumber": 5,
+    "headSha": "ad8ad88c5c513dbda873ba2d7d70da5cfc572f38",
+    "resolved": false
   }
 }
